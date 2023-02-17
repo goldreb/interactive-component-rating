@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/interactive-component.jpgg)
+![](./images/interactive-component.jpg)
 
 
 
